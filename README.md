@@ -1,2 +1,2 @@
 # Online-Resume
-HTML only
+The project only use HTML
